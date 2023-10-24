@@ -34,7 +34,10 @@ The notebook [2_Diffuse_scattering_analysis](2_Diffuse_scattering_analysis.ipynb
 2. Identify the correlation between heterogeneous diffuse scattering peaks via correlation coefficient map
 3. Visualize the heterogeneous domains and their nanobeam diffraction pattern via virtual dark-field image and domain map
 4. Isolate homogeneous diffuse scattering signals from the heterogeneous ones
+   
 The details of each step in the analysis process can be from in the Method section of the aforementioned paper.
+
+
 
 ### Notes
 -Many parameters used in this notebook, such as the location of the virtual aperture, were selected for the example dataset. Users should change these parameters to values appropriate for their own dataset. 
