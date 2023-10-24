@@ -44,7 +44,7 @@ The details of each step in the analysis process can be from in the Method secti
 
 ## Limitation
 This diffuse scattering analysis procedure is designed to be a rudimentary analysis that can be apply to any 4D-STEM dataset as a first step towards understanding the diffuse scattering behaviors in materials. While it works well for its intended purpose, the users should be aware of its limitations:
-1. For many materials, the diffuse scattering signals are weak enough to be overwhelmed by the inelastic scattering background. Therefore, the procedure might not work properly when the 4D-STEM dataset is not collected with energy filter.
+1. For many materials, the diffuse scattering signals are weak enough to be overwhelmed by the inelastic scattering background. Therefore, the procedure might not work properly when the 4D-STEM dataset is collected without energy filter.
 2. The analysis is qualitative not quantitative. Thus it lacks the ability to resolve some finer details of the studied features, such as chemical composition.
 3. This method is not sensitive to diffuse scattering signals that are streakings stem from the Bragg diffraction. Because this kind of streakings are too close to the Bragg peaks, they can be altered during the local background removal process when the diffraction condition (such as bending) changes within the mapping area. 
 
