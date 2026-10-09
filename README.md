@@ -2,8 +2,7 @@
 Electron diffuse scattering analysis procedure for crystalline materials via 4D-STEM 
 
 The ipython notebooks in this project are parts of a procedure for analysing the fluctuation and correlation of electron diffuse scattering signals obtained via Four-Dimensional Scanning Transmission Electron Microscopy (4D-STEM) technique, as described in the paper "Differentiating Diffuse Electron Scattering in Complex FCC Alloys via Fluctuation and Correlation Mapping":
-
-(Put paper url here)
+[https://doi.org/10.1016/j.ultramic.2025.114228](https://doi.org/10.1016/j.ultramic.2025.114228)
 
 The procedure is useful for identifying diffuse scattering signals in crystalline materials that originate from nanoscale heterogeneous features, such as nanoscale planar defect and nanoscale ordered (both short-range and long-range) domains, and for solving the origins of such heterogeneous diffuse scattering signals.
 
